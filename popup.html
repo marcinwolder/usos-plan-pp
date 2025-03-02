@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USOS Plan++</title>
+    <script src="popup.js" defer></script>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <form id="searchForm">
+        <div class="form-group">
+            <label for="cwl">Grupa CWL: </label>
+            <input type="text" id="cwl" name="cwl" placeholder="Wpisz nr gr. CWL..." required>
+        </div>
+
+        <div class="form-group">
+            <label for="cwp">Grupa CWP: </label>
+            <input type="text" id="cwp" name="cwp" placeholder="Wpisz nr gr. CWP..." required>
+        </div>
+
+        <div class="form-group">
+            <label for="cwa">Grupa CWA: </label>
+            <input type="text" id="cwa" name="cwa" placeholder="Wpisz nr gr. CWA..." required>
+        </div>
+
+        <button type="submit">Filtruj</button>
+        <button type="button" id="clearStorage" class="clear-btn">Wyczyść pamięć</button>
+    </form>
+</body>
+</html>
