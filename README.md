@@ -3,6 +3,8 @@
 The application is used to filter out other groups' classes from the AGH schedule.  
 It can be used to quickly find your classes or to compare which group has the best schedule.
 
+**Chrome Web Store:** [[LINK]](https://chromewebstore.google.com/detail/usos-plan++/koianmalhfdfhcgpgohlfekmgdihjgkn)
+
 ## How to use
 
 1. Open your AGH university plan [[example]](https://web.usos.agh.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPlanGrupyPrzedmiotow&grupa_kod=ISI_1S_sem_4&cdyd_kod=24%2F25-L)
